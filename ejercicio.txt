@@ -1,0 +1,16 @@
+Ejercicio Clase 10
+1. Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no ?
+
+ Por que dependiendo del lenguaje de programación debe tener un compilador o un intérprete que permite traducir a lenguaje de máquina las instrucciones que le estamos dando  al computador para que ejecute.
+
+2. Que tipo de máquina virtual soporta Virtualbox
+
+Virtualbox soporta maquinas virtuales de sistemas.
+
+3. Que funcion cumple el hypervisor en la virtualización
+ 
+“Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.”Tomado de https://www.vmware.com/es/topics/glossary/content/hypervisor.html#:~:text=Un%20hipervisor%20permite%20que%20un,la%20memoria%20y%20el%20procesamiento.
+
+4. Si una máquina virtual está instalada, y una se rompe, esto afecta a las demás?, por que?   
+
+No, no afecta a las demás por que cada máquina virtual es independiente de la otra, al igual de cada sistema operativo que estemos emulando en la máquina virtual.
